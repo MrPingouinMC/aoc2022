@@ -1,4 +1,4 @@
- # Advent of code 2021
+ # Advent of code 2022
  
  Here is my attempt to solve Advent of Code 2021 using minecraft datapack and functions with pure vanilla vanilla commands (no mods, external tool or compiler).
 
