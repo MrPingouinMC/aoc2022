@@ -7,4 +7,4 @@ scoreboard players set TYPE LONG 0
 
 function aoc:sort/priv/quick_sort_base
 
-tellraw @a ["sorted ", {"nbt":"arr","storage":"sort"}]
+#tellraw @a ["sorted ", {"nbt":"arr","storage":"sort"}]

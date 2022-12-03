@@ -1,6 +1,6 @@
  # Advent of code 2022
  
- Here is my attempt to solve Advent of Code 2021 using minecraft datapack and functions with pure vanilla vanilla commands (no mods, external tool or compiler).
+ Here is my attempt to solve Advent of Code 2022 using minecraft datapack and functions with pure vanilla vanilla commands (no mods, external tool or compiler).
 
 ### Install
 
