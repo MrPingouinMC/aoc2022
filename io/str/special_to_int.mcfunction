@@ -15,3 +15,5 @@ execute if data storage iobuf {"char":">"} run scoreboard players set CHAR REG -
 execute if data storage iobuf {"char":"."} run scoreboard players set CHAR REG 5
 execute if data storage iobuf {"char":"#"} run scoreboard players set CHAR REG 6
 execute if data storage iobuf {"char":" "} run scoreboard players set CHAR REG 7
+execute if data storage iobuf {"char":"$"} run scoreboard players set CHAR REG 8
+execute if data storage iobuf {"char":"/"} run scoreboard players set CHAR REG 9
