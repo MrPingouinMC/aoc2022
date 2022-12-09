@@ -55,6 +55,7 @@ scoreboard players set 250 CONST 250
 scoreboard players set 256 CONST 256
 scoreboard players set 1000 CONST 1000
 scoreboard players set 10000 CONST 10000
+scoreboard players set 20000 CONST 20000
 
 scoreboard players set BINT CONST 1000
 
