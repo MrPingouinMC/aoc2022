@@ -8,3 +8,4 @@ execute if score YEAR AOC matches 2022 if score DAY AOC matches 6 run data modif
 execute if score YEAR AOC matches 2022 if score DAY AOC matches 7 run data modify storage input data set from storage aoc_2022_day7 data
 execute if score YEAR AOC matches 2022 if score DAY AOC matches 8 run data modify storage input data set from storage aoc_2022_day8 data
 execute if score YEAR AOC matches 2022 if score DAY AOC matches 9 run data modify storage input data set from storage aoc_2022_day9 data
+execute if score YEAR AOC matches 2022 if score DAY AOC matches 10 run data modify storage input data set from storage aoc_2022_day10 data

@@ -49,6 +49,7 @@ scoreboard players set 16 CONST 16
 scoreboard players set 17 CONST 17
 scoreboard players set 31 CONST 31
 scoreboard players set 32 CONST 32
+scoreboard players set 40 CONST 40
 scoreboard players set 64 CONST 64
 scoreboard players set 100 CONST 100
 scoreboard players set 250 CONST 250
