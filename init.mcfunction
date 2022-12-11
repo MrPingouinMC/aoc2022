@@ -15,6 +15,9 @@ scoreboard objectives add REG dummy
 #Used for the pufferfish array
 scoreboard objectives add PUF dummy
 
+#Used for the math operation
+scoreboard objectives add MATH dummy
+
 #Used for the long calculation (actually an implementation closer to big int)
 scoreboard objectives add LONG dummy
 scoreboard players set D LONG 1000
@@ -57,6 +60,8 @@ scoreboard players set 256 CONST 256
 scoreboard players set 1000 CONST 1000
 scoreboard players set 10000 CONST 10000
 scoreboard players set 20000 CONST 20000
+scoreboard players set MAX_INT CONST 2147483647
+
 
 scoreboard players set BINT CONST 1000
 
